@@ -1,0 +1,2 @@
+14:08:56.632 [main] INFO  com.intuit.karate.Runner - using system property 'karate.options': --tags @debug
+14:08:57.919 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: swedemo/features/persons.feature - mismatched input '<EOF>' expecting {FEATURE_TAGS, FEATURE}

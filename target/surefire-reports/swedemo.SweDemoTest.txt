@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: swedemo.SweDemoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.821 s <<< FAILURE! - in swedemo.SweDemoTest
+testParallel  Time elapsed: 1.816 s  <<< ERROR!
+java.lang.RuntimeException: mismatched input '<EOF>' expecting {FEATURE_TAGS, FEATURE}
+	at swedemo.SweDemoTest.testParallel(SweDemoTest.java:14)
+
